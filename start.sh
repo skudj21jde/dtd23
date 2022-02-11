@@ -2,7 +2,7 @@
 
 # configs
 AUUID=8bd070b2-d498-4d9f-b243-c8ebd3fd48c2
-CADDYIndexPage=https://github.com/ripienaar/free-for-dev/archive/master.zip
+CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
 CONFIGCADDY=/etc/Caddyfile
 CONFIGXRAY=/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
